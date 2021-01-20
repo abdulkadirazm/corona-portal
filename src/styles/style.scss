@@ -1,0 +1,22 @@
+// covid19-turkey Styles
+// -------------------------
+
+// Variables
+@import "abstracts/variables";
+
+// Bootstrap
+@import "../../node_modules/bootstrap/scss/bootstrap";
+
+// Fonts
+@import url("https://fonts.googleapis.com/css?family=Inter:400,600,700,900&display=swap&subset=latin-ext");
+
+// Base Styles
+@import "base/generic";
+
+// Components
+@import "components/app";
+@import "components/header";
+@import "components/navbar";
+
+// Pages
+@import "pages/son-durum";

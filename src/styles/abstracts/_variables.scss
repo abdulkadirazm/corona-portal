@@ -1,0 +1,16 @@
+// Colors
+$primary: #00a6a2 !default;
+
+// Body
+$body-bg: mix($primary, #fff, 12%) !default;
+$body-color: #383838 !default;
+
+// Links
+$link-color: #cf142b !default;
+$link-hover-color: $body-color !default;
+$link-hover-decoration: none !default;
+
+// Typography
+$font-family-base: "Inter", -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen", "Ubuntu", "Cantarell",
+  "Fira Sans", "Droid Sans", "Helvetica Neue", sans-serif !default;
+$headings-font-weight: 700 !default;

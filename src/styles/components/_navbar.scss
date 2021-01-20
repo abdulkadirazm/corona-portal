@@ -1,0 +1,28 @@
+// Navbar
+.navbar-light {
+  // Navbar
+  .navbar-brand {
+    font-size: 1.5rem;
+    font-weight: 700;
+    text-transform: uppercase;
+  }
+  .navbar-nav {
+    // Navbar Link
+    .nav-link {
+      color: #383838;
+      font-weight: 600;
+      text-transform: uppercase;
+
+      &:hover {
+        color: #cf142b;
+      }
+      &.active {
+        &,
+        &:hover,
+        &:focus {
+          color: #cf142b;
+        }
+      }
+    }
+  }
+}

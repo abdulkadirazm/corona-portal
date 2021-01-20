@@ -1,0 +1,298 @@
+export default [{
+  date: '01.04',
+  cases: 15679,
+  losses: 277,
+  tests: 14396,
+  totalTests: 106799,
+  positive: 2148,
+  dailyLoss: 63,
+  recovery: 333
+}, {
+  date: '02.04',
+  cases: 18135,
+  losses: 356,
+  tests: 18757,
+  totalTests: 125556,
+  positive: 2456,
+  dailyLoss: 79,
+  recovery: 415
+}, {
+  date: '03.04',
+  cases: 20921,
+  losses: 425,
+  tests: 16160,
+  totalTests: 141716,
+  positive: 2786,
+  dailyLoss: 69,
+  recovery: 484
+}, {
+  date: '04.04',
+  cases: 23934,
+  losses: 501,
+  tests: 19664,
+  totalTests: 161380,
+  positive: 3013,
+  dailyLoss: 76,
+  recovery: 786,
+  dailyRecovery: 302
+}, {
+  date: '05.04',
+  cases: 27069,
+  losses: 574,
+  tests: 20065,
+  totalTests: 181445,
+  positive: 3135,
+  dailyLoss: 73,
+  recovery: 1042,
+  dailyRecovery: 256
+}, {
+  date: '06.04',
+  cases: 30217,
+  losses: 649,
+  tests: 21400,
+  totalTests: 202845,
+  positive: 3148,
+  dailyLoss: 75,
+  recovery: 1326,
+  dailyRecovery: 284
+}, {
+  date: '07.04',
+  cases: 34109,
+  losses: 725,
+  tests: 20023,
+  totalTests: 222868,
+  positive: 3892,
+  dailyLoss: 76,
+  recovery: 1582,
+  dailyRecovery: 256
+}, {
+  date: '08.04',
+  cases: 38226,
+  losses: 812,
+  tests: 24900,
+  totalTests: 247768,
+  positive: 4117,
+  dailyLoss: 87,
+  recovery: 1846,
+  dailyRecovery: 264
+}, {
+  date: '09.04',
+  cases: 42282,
+  losses: 908,
+  tests: 28578,
+  totalTests: 276338,
+  positive: 4056,
+  dailyLoss: 96,
+  recovery: 2142,
+  dailyRecovery: 296
+}, {
+  date: '10.04',
+  cases: 47029,
+  losses: 1006,
+  tests: 30864,
+  totalTests: 307210,
+  positive: 4747,
+  dailyLoss: 98,
+  recovery: 2423,
+  dailyRecovery: 281
+}, {
+  date: '11.04',
+  cases: 52167,
+  losses: 1101,
+  tests: 33170,
+  totalTests: 340380,
+  positive: 5138,
+  dailyLoss: 95,
+  recovery: 2965,
+  dailyRecovery: 542
+}, {
+  date: '12.04',
+  cases: 56956,
+  losses: 1198,
+  tests: 35720,
+  totalTests: 376100,
+  positive: 4789,
+  dailyLoss: 97,
+  recovery: 3446,
+  dailyRecovery: 481
+}, {
+  date: '13.04',
+  cases: 61049,
+  losses: 1296,
+  tests: 34456,
+  totalTests: 410556,
+  positive: 4093,
+  dailyLoss: 98,
+  recovery: 3957,
+  dailyRecovery: 511
+}, {
+  date: '14.04',
+  cases: 65111,
+  losses: 1403,
+  tests: 33070,
+  totalTests: 443626,
+  positive: 4062,
+  dailyLoss: 107,
+  recovery: 4799,
+  dailyRecovery: 842
+}, {
+  date: '15.04',
+  cases: 69392,
+  losses: 1518,
+  tests: 34090,
+  totalTests: 477716,
+  positive: 4281,
+  dailyLoss: 115,
+  recovery: 5674,
+  dailyRecovery: 875
+}, {
+  date: '16.04',
+  cases: 74193,
+  losses: 1643,
+  tests: 40427,
+  totalTests: 518143,
+  positive: 4801,
+  dailyLoss: 125,
+  recovery: 7089,
+  dailyRecovery: 1415
+}, {
+  date: '17.04',
+  cases: 78546,
+  losses: 1769,
+  tests: 40270,
+  totalTests: 558413,
+  positive: 4353,
+  dailyLoss: 126,
+  recovery: 8631,
+  dailyRecovery: 1542
+}, {
+  date: '18.04',
+  cases: 82329,
+  losses: 1890,
+  tests: 40520,
+  totalTests: 598933,
+  positive: 3783,
+  dailyLoss: 121,
+  recovery: 10453,
+  dailyRecovery: 1822
+}, {
+  date: '19.04',
+  cases: 86306,
+  losses: 2017,
+  tests: 35344,
+  totalTests: 634277,
+  positive: 3977,
+  dailyLoss: 127,
+  recovery: 11976,
+  dailyRecovery: 1523
+}, {
+  date: '20.04',
+  cases: 90980,
+  losses: 2140,
+  tests: 39703,
+  totalTests: 673980,
+  positive: 4674,
+  dailyLoss: 123,
+  recovery: 13430,
+  dailyRecovery: 1454
+}, {
+  date: '21.04',
+  cases: 95591,
+  losses: 2259,
+  tests: 39429,
+  totalTests: 713409,
+  positive: 4611,
+  dailyLoss: 119,
+  recovery: 14918,
+  dailyRecovery: 1488
+}, {
+  date: '22.04',
+  cases: 98674,
+  losses: 2376,
+  tests: 37535,
+  totalTests: 750944,
+  positive: 3083,
+  dailyLoss: 117,
+  recovery: 16477,
+  dailyRecovery: 1559
+}, {
+  date: '23.04',
+  cases: 101790,
+  losses: 2491,
+  tests: 40962,
+  totalTests: 791906,
+  positive: 3116,
+  dailyLoss: 115,
+  recovery: 18491,
+  dailyRecovery: 2014
+}, {
+  date: '24.04',
+  cases: 104912,
+  losses: 2600,
+  tests: 38351,
+  totalTests: 830257,
+  positive: 3122,
+  dailyLoss: 109,
+  recovery: 21737,
+  dailyRecovery: 3246
+}, {
+  date: '25.04',
+  cases: 107773,
+  losses: 2706,
+  tests: 38308,
+  totalTests: 868565,
+  positive: 2861,
+  dailyLoss: 106,
+  recovery: 25582,
+  dailyRecovery: 3845
+}, {
+  date: '26.04',
+  cases: 110130,
+  losses: 2805,
+  tests: 30177,
+  totalTests: 898742,
+  positive: 2357,
+  dailyLoss: 99,
+  recovery: 29140,
+  dailyRecovery: 3558
+}, {
+  date: '27.04',
+  cases: 112261,
+  losses: 2900,
+  tests: 20143,
+  totalTests: 918885,
+  positive: 2131,
+  dailyLoss: 95,
+  recovery: 33791,
+  dailyRecovery: 4651
+}, {
+  date: '28.04',
+  cases: 114653,
+  losses: 2992,
+  tests: 29230,
+  totalTests: 948115,
+  positive: 2392,
+  dailyLoss: 92,
+  recovery: 38809,
+  dailyRecovery: 5018
+}, {
+  date: '29.04',
+  cases: 117589,
+  losses: 3081,
+  tests: 43498,
+  totalTests: 991613,
+  positive: 2936,
+  dailyLoss: 89,
+  recovery: 44040,
+  dailyRecovery: 5231
+}, {
+  date: '30.04',
+  cases: 120204,
+  losses: 3174,
+  tests: 42004,
+  totalTests: 1033617,
+  positive: 2615,
+  dailyLoss: 93,
+  recovery: 48886,
+  dailyRecovery: 4846
+}];
